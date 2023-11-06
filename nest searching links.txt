@@ -1,0 +1,23 @@
+
+feature flag try catch block authguards everything  in these link
+
+https://wanago.io/2022/08/22/api-nestjs-feature-flags-feature-toggles/
+
+testcases:
+https://dev.to/tkssharma/unit-testing-and-integration-testing-nestjs-application-4d7a
+
+swagger configuaration
+https://blog.bitsrc.io/a-guide-to-nestjs-swagger-configuration-dec5f183b53
+
+feature flags
+Implementing Backend Feature Flags in JavaScript(u tube videao)
+https://docs.gitlab.com/ee/operations/feature_flags.html
+git tutorial
+https://www.atlassian.com/git/tutorials/using-branches/merge-strategy
+
+authorization using the authguards
+https://medium.com/@rahulrulz680/manage-role-based-authorization-using-guards-in-nestjs-34b3be412e50
+
+refresh token and accss token
+https://www.elvisduru.com/blog/nestjs-jwt-authentication-refresh-token
+https://github.com/iamstarcode/refresh-token-rotation-nest
